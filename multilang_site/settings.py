@@ -134,7 +134,7 @@ LOCALE_PATHS = [
     BASE_DIR / 'locale',
 ]
 
-#configurer les fichiers médias
+#configurer les fichiers médias 
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
