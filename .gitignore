@@ -1,0 +1,18 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+/media
+/static
+.DS_Store
+*.pyo
+*.swp
+*~
+# Ignorer les fichiers de configuration de l'environnement virtuel
+venv/
+ENV/
+env/
+*.venv/
+*.env/
