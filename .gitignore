@@ -1,18 +1,55 @@
-*.log
-*.pot
 *.pyc
 __pycache__/
-local_settings.py
 db.sqlite3
 /media
-/static
-.DS_Store
-*.pyo
-*.swp
-*~
-# Ignorer les fichiers de configuration de l'environnement virtuel
+
+# Fichiers de l'environnement virtuel
 venv/
 ENV/
-env/
-*.venv/
-*.env/
+
+# Fichier de configuration local
+*.local
+
+# Fichier de base de données local pour sqlite
+*.sqlite3
+*.sqlite3-journal
+
+# Fichier de journalisation
+*.log
+
+# Dossier de cache de pytest
+.cache
+
+# Dossier de couverture de test
+.coverage
+htmlcov/
+
+# Fichiers de configuration de l'IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Dossier de paquets de node (peut être utilisé pour les thèmes, plugins, etc.)
+node_modules/
+
+# Fichier de secrets Django
+*.env
+
+# Dossiers de distribution de Bootstrap
+/bootstrap-*/dist/
+
+# Fichiers de map et de minification qui peuvent être générés
+*.map
+*.min.css
+*.min.js
+
+# Dossiers et fichiers de documentation Bootstrap (si vous les téléchargez ou les générez)
+/docs/
+*.md
+
+# Fichiers de configuration de construction spécifiques à Bootstrap
+gruntfile.js
+package.json
+package-lock.json
