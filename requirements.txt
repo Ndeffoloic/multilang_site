@@ -31,7 +31,7 @@ esda==2.5.1
 executing==2.0.1
 fastjsonschema==2.19.1
 filelock==3.13.4
-fiona==1.9.5
+fiona==1.10.0rc1
 fonttools==4.49.0
 fqdn==1.5.1
 frozendict==2.4.4
