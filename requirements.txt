@@ -11,7 +11,7 @@ attrs==23.2.0
 Babel==2.14.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
-certifi==2024.2.2
+certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
@@ -26,12 +26,12 @@ decorator==5.1.1
 defusedxml==0.7.1
 deprecation==2.1.0
 distlib==0.3.8
-Django==5.0.6
+Django==5.0.13
 esda==2.5.1
 executing==2.0.1
 fastjsonschema==2.19.1
 filelock==3.13.4
-fiona==1.9.5
+fiona==1.10.0rc1
 fonttools==4.49.0
 fqdn==1.5.1
 frozendict==2.4.4
@@ -48,7 +48,7 @@ ipython==8.23.0
 ipywidgets==8.1.2
 isoduration==20.11.0
 jedi==0.19.1
-Jinja2==3.1.3
+Jinja2==3.1.6
 joblib==1.3.2
 json5==0.9.24
 jsonpointer==2.4
@@ -62,7 +62,7 @@ jupyter_client==8.6.1
 jupyter_core==5.7.2
 jupyter_server==2.13.0
 jupyter_server_terminals==0.5.3
-jupyterlab==4.1.5
+jupyterlab==4.2.5
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.4
 jupyterlab_widgets==3.0.10
@@ -84,7 +84,7 @@ nbconvert==7.16.3
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.2.1
-notebook==7.1.2
+notebook==7.2.2
 notebook_shim==0.2.4
 numba==0.59.0
 numpy==1.26.4
@@ -95,7 +95,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 patsy==0.5.6
 peewee==3.17.5
-pillow==10.2.0
+pillow==10.3.0
 platformdirs==4.2.0
 pointpats==2.4.0
 prometheus_client==0.20.0
@@ -126,7 +126,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.18.0
 Rtree==1.2.0
-scikit-learn==1.4.1.post1
+scikit-learn==1.5.1
 scipy==1.12.0
 seaborn==0.13.2
 segregation==2.5
@@ -152,15 +152,15 @@ terminado==0.18.1
 threadpoolctl==3.3.0
 tinycss2==1.2.1
 tobler==0.11.2
-tornado==6.4
+tornado==6.4.2
 tqdm==4.66.2
 traitlets==5.14.2
 types-python-dateutil==2.9.0.20240316
 typing_extensions==4.11.0
 tzdata==2024.1
 uri-template==1.3.0
-urllib3==2.2.1
 virtualenv==20.26.6
+urllib3==2.2.2
 wcwidth==0.2.13
 webcolors==1.13
 webencodings==0.5.1
