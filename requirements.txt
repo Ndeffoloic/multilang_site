@@ -126,7 +126,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.18.0
 Rtree==1.2.0
-scikit-learn==1.4.1.post1
+scikit-learn==1.5.1
 scipy==1.12.0
 seaborn==0.13.2
 segregation==2.5
