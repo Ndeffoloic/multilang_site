@@ -95,7 +95,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 patsy==0.5.6
 peewee==3.17.5
-pillow==10.2.0
+pillow==10.3.0
 platformdirs==4.2.0
 pointpats==2.4.0
 prometheus_client==0.20.0
